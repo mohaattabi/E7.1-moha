@@ -1,0 +1,6 @@
+Foundation: nos permite descargar un HTML y CSS que viene configurado de una manera especifica con los componentes de interfaz de usuario, plantillas y fragmentos de código, incluyendo la tipografía, formas, botones, navegación y otros componentes de la interfaz, ademas añade algunas características adicionales de JavaScript.
+
+Esto es una ayuda para crear nuestras paginas web de forma mas sencilla.
+
+Para que esto funcione, deberemos descargar la version que queramos o crear una personalizada.
+Despues de descargarlo lo extraemos y podremos entrar en la carpeta y modificar los archivos que queramos, Html, Css, etc.
